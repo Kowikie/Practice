@@ -1,0 +1,15 @@
+C:\users\patri\codepractice\calculator\bin\Debug\net6.0\calculator.exe
+C:\users\patri\codepractice\calculator\bin\Debug\net6.0\calculator.deps.json
+C:\users\patri\codepractice\calculator\bin\Debug\net6.0\calculator.runtimeconfig.json
+C:\users\patri\codepractice\calculator\bin\Debug\net6.0\calculator.dll
+C:\users\patri\codepractice\calculator\bin\Debug\net6.0\calculator.pdb
+C:\users\patri\codepractice\calculator\obj\Debug\net6.0\calculator.csproj.AssemblyReference.cache
+C:\users\patri\codepractice\calculator\obj\Debug\net6.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\patri\codepractice\calculator\obj\Debug\net6.0\calculator.AssemblyInfoInputs.cache
+C:\users\patri\codepractice\calculator\obj\Debug\net6.0\calculator.AssemblyInfo.cs
+C:\users\patri\codepractice\calculator\obj\Debug\net6.0\calculator.csproj.CoreCompileInputs.cache
+C:\users\patri\codepractice\calculator\obj\Debug\net6.0\calculator.dll
+C:\users\patri\codepractice\calculator\obj\Debug\net6.0\refint\calculator.dll
+C:\users\patri\codepractice\calculator\obj\Debug\net6.0\calculator.pdb
+C:\users\patri\codepractice\calculator\obj\Debug\net6.0\calculator.genruntimeconfig.cache
+C:\users\patri\codepractice\calculator\obj\Debug\net6.0\ref\calculator.dll
