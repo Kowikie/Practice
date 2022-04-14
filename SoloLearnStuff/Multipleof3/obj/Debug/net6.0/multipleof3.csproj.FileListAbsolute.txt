@@ -1,0 +1,15 @@
+C:\users\patri\codepractice\sololearnstuff\multipleof3\bin\Debug\net6.0\multipleof3.exe
+C:\users\patri\codepractice\sololearnstuff\multipleof3\bin\Debug\net6.0\multipleof3.deps.json
+C:\users\patri\codepractice\sololearnstuff\multipleof3\bin\Debug\net6.0\multipleof3.runtimeconfig.json
+C:\users\patri\codepractice\sololearnstuff\multipleof3\bin\Debug\net6.0\multipleof3.dll
+C:\users\patri\codepractice\sololearnstuff\multipleof3\bin\Debug\net6.0\multipleof3.pdb
+C:\users\patri\codepractice\sololearnstuff\multipleof3\obj\Debug\net6.0\multipleof3.csproj.AssemblyReference.cache
+C:\users\patri\codepractice\sololearnstuff\multipleof3\obj\Debug\net6.0\multipleof3.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\patri\codepractice\sololearnstuff\multipleof3\obj\Debug\net6.0\multipleof3.AssemblyInfoInputs.cache
+C:\users\patri\codepractice\sololearnstuff\multipleof3\obj\Debug\net6.0\multipleof3.AssemblyInfo.cs
+C:\users\patri\codepractice\sololearnstuff\multipleof3\obj\Debug\net6.0\multipleof3.csproj.CoreCompileInputs.cache
+C:\users\patri\codepractice\sololearnstuff\multipleof3\obj\Debug\net6.0\multipleof3.dll
+C:\users\patri\codepractice\sololearnstuff\multipleof3\obj\Debug\net6.0\refint\multipleof3.dll
+C:\users\patri\codepractice\sololearnstuff\multipleof3\obj\Debug\net6.0\multipleof3.pdb
+C:\users\patri\codepractice\sololearnstuff\multipleof3\obj\Debug\net6.0\multipleof3.genruntimeconfig.cache
+C:\users\patri\codepractice\sololearnstuff\multipleof3\obj\Debug\net6.0\ref\multipleof3.dll
