@@ -1,0 +1,15 @@
+C:\Users\patri\CodePractice\sololearnstuff\levelpoints\bin\Debug\net6.0\levelpoints.exe
+C:\Users\patri\CodePractice\sololearnstuff\levelpoints\bin\Debug\net6.0\levelpoints.deps.json
+C:\Users\patri\CodePractice\sololearnstuff\levelpoints\bin\Debug\net6.0\levelpoints.runtimeconfig.json
+C:\Users\patri\CodePractice\sololearnstuff\levelpoints\bin\Debug\net6.0\levelpoints.dll
+C:\Users\patri\CodePractice\sololearnstuff\levelpoints\bin\Debug\net6.0\levelpoints.pdb
+C:\Users\patri\CodePractice\sololearnstuff\levelpoints\obj\Debug\net6.0\levelpoints.csproj.AssemblyReference.cache
+C:\Users\patri\CodePractice\sololearnstuff\levelpoints\obj\Debug\net6.0\levelpoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\CodePractice\sololearnstuff\levelpoints\obj\Debug\net6.0\levelpoints.AssemblyInfoInputs.cache
+C:\Users\patri\CodePractice\sololearnstuff\levelpoints\obj\Debug\net6.0\levelpoints.AssemblyInfo.cs
+C:\Users\patri\CodePractice\sololearnstuff\levelpoints\obj\Debug\net6.0\levelpoints.csproj.CoreCompileInputs.cache
+C:\Users\patri\CodePractice\sololearnstuff\levelpoints\obj\Debug\net6.0\levelpoints.dll
+C:\Users\patri\CodePractice\sololearnstuff\levelpoints\obj\Debug\net6.0\refint\levelpoints.dll
+C:\Users\patri\CodePractice\sololearnstuff\levelpoints\obj\Debug\net6.0\levelpoints.pdb
+C:\Users\patri\CodePractice\sololearnstuff\levelpoints\obj\Debug\net6.0\levelpoints.genruntimeconfig.cache
+C:\Users\patri\CodePractice\sololearnstuff\levelpoints\obj\Debug\net6.0\ref\levelpoints.dll
