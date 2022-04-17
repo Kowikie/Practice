@@ -1,0 +1,15 @@
+C:\Users\patri\CodePractice\sololearnstuff\socialnetwork\bin\Debug\net6.0\socialnetwork.exe
+C:\Users\patri\CodePractice\sololearnstuff\socialnetwork\bin\Debug\net6.0\socialnetwork.deps.json
+C:\Users\patri\CodePractice\sololearnstuff\socialnetwork\bin\Debug\net6.0\socialnetwork.runtimeconfig.json
+C:\Users\patri\CodePractice\sololearnstuff\socialnetwork\bin\Debug\net6.0\socialnetwork.dll
+C:\Users\patri\CodePractice\sololearnstuff\socialnetwork\bin\Debug\net6.0\socialnetwork.pdb
+C:\Users\patri\CodePractice\sololearnstuff\socialnetwork\obj\Debug\net6.0\socialnetwork.csproj.AssemblyReference.cache
+C:\Users\patri\CodePractice\sololearnstuff\socialnetwork\obj\Debug\net6.0\socialnetwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\CodePractice\sololearnstuff\socialnetwork\obj\Debug\net6.0\socialnetwork.AssemblyInfoInputs.cache
+C:\Users\patri\CodePractice\sololearnstuff\socialnetwork\obj\Debug\net6.0\socialnetwork.AssemblyInfo.cs
+C:\Users\patri\CodePractice\sololearnstuff\socialnetwork\obj\Debug\net6.0\socialnetwork.csproj.CoreCompileInputs.cache
+C:\Users\patri\CodePractice\sololearnstuff\socialnetwork\obj\Debug\net6.0\socialnetwork.dll
+C:\Users\patri\CodePractice\sololearnstuff\socialnetwork\obj\Debug\net6.0\refint\socialnetwork.dll
+C:\Users\patri\CodePractice\sololearnstuff\socialnetwork\obj\Debug\net6.0\socialnetwork.pdb
+C:\Users\patri\CodePractice\sololearnstuff\socialnetwork\obj\Debug\net6.0\socialnetwork.genruntimeconfig.cache
+C:\Users\patri\CodePractice\sololearnstuff\socialnetwork\obj\Debug\net6.0\ref\socialnetwork.dll
